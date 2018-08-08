@@ -1,0 +1,35 @@
+  .woocommerce form .form-row .required { visibility: visible; }
+            .margin-top{
+                margin-top:50px;
+            }
+            .padding{
+                padding: 40px 20px 20px 20px !important;
+            }
+            .kc-css-4167996{
+                background: transparent url(./images/a_qui_adresse_nos_formations.jpg) 0% 0%/cover no-repeat scroll !important; 
+            }
+            .color{
+                color: #0e5e96;
+            }
+            .font{
+                font-size: 12px; 
+            }
+            .ul-list li, .ul-list li {
+                background-image: url(../images/checking-white.png);
+                color: #777b93;
+            }
+            .ul-list li {
+                padding-left: 25px;
+                background-position: left 6px;
+                background-image: url(./images/checking.png);
+                background-repeat: no-repeat;
+                display: block;
+                text-decoration: none;
+                line-height: 27px;
+                font-size: 12px;
+            }
+            .paragraph{
+                margin-bottom: 0.4em;
+            }
+
+              [data-font="FontAwesome"]:before {font-family: 'FontAwesome' !important;content: attr(data-icon) !important;speak: none !important;font-weight: normal !important;font-variant: normal !important;text-transform: none !important;line-height: 1 !important;font-style: normal !important;-webkit-font-smoothing: antialiased !important;-moz-osx-font-smoothing: grayscale !important;}
